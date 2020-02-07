@@ -18,7 +18,11 @@ public class Operaciones {
 	public int resta() {
 		return operadorA-operadorB;
 	}
-
+	
+	public int dividision() {
+		return operadorA/operadorB;
+	}
+	
 	public int getOperadorA() {
 		return operadorA;
 	}
