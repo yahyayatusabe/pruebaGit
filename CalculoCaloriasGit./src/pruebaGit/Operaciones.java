@@ -19,7 +19,7 @@ public class Operaciones {
 		return operadorA-operadorB;
 	}
 	
-	public int dividision() {
+	public int division() {
 		return operadorA/operadorB;
 	}
 	
